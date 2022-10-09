@@ -1,0 +1,2 @@
+Hello I am learning File Stream in Node
+I am also learning about Pipe Stream
